@@ -1,3 +1,3 @@
 # Calculator-CLI-
 
-You may Get a popup message showing unknown publisher press run anyway button
+This is a simple command line calculator made with python
